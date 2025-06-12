@@ -23,6 +23,7 @@ public class _189RotateArray {
     }
 
     public static void rotate(int[] nums, int k) {
+        k = k % nums.length;
         // 三次翻转
         reverse(nums, 0, nums.length - 1);
         reverse(nums, 0, k - 1);
