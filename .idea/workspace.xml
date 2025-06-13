@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cb12fdb-8bcf-4637-9b9b-4d610d974dc8" name="Changes" comment="买卖股票最佳时机2">
-      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/_055JumpGame.java" afterDir="false" />
+    <list default="true" id="9cb12fdb-8bcf-4637-9b9b-4d610d974dc8" name="Changes" comment="跳跃游戏">
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/_045JumpGame2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,29 +23,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2yQWC7Bj8pRV6zsHacCzgougFC3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="_121BestTimeToBuyAndSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayAndString._121BestTimeToBuyAndSellStocks" />
@@ -74,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749767148568</updated>
-      <workItem from="1749767149560" duration="5652000" />
+      <workItem from="1749767149560" duration="5859000" />
+      <workItem from="1749827085478" duration="754000" />
     </task>
     <task id="LOCAL-00001" summary="最佳买卖股票时机">
       <option name="closed" value="true" />
@@ -108,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749792994885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="跳跃游戏">
+      <option name="closed" value="true" />
+      <created>1749794423030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749794423030</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +128,8 @@
     <MESSAGE value="轮转数组" />
     <MESSAGE value="轮转数组 - 问题修复" />
     <MESSAGE value="买卖股票最佳时机2" />
-    <option name="LAST_COMMIT_MESSAGE" value="买卖股票最佳时机2" />
+    <MESSAGE value="跳跃游戏" />
+    <option name="LAST_COMMIT_MESSAGE" value="跳跃游戏" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Interview_150$_121BestTimeToBuyAndSellStocks.ic" NAME="_121BestTimeToBuyAndSellStocks Coverage Results" MODIFIED="1749768621942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
