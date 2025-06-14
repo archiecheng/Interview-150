@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cb12fdb-8bcf-4637-9b9b-4d610d974dc8" name="Changes" comment="H指数">
-      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/_380InsertDeleteGetRandom.java" afterDir="false" />
+    <list default="true" id="9cb12fdb-8bcf-4637-9b9b-4d610d974dc8" name="Changes" comment="O(1) 时间插入、删除和获取随机元素">
+      <change afterPath="$PROJECT_DIR$/src/ArrayAndString/_238ProductofArrayExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <updated>1749767148568</updated>
       <workItem from="1749767149560" duration="5859000" />
       <workItem from="1749827085478" duration="1501000" />
-      <workItem from="1749929928009" duration="4077000" />
+      <workItem from="1749929928009" duration="6315000" />
     </task>
     <task id="LOCAL-00001" summary="最佳买卖股票时机">
       <option name="closed" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749931793821</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="O(1) 时间插入、删除和获取随机元素">
+      <option name="closed" value="true" />
+      <created>1749934185437</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749934185437</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +156,8 @@
     <MESSAGE value="跳跃游戏" />
     <MESSAGE value="跳跃游戏2" />
     <MESSAGE value="H指数" />
-    <option name="LAST_COMMIT_MESSAGE" value="H指数" />
+    <MESSAGE value="O(1) 时间插入、删除和获取随机元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="O(1) 时间插入、删除和获取随机元素" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Interview_150$_121BestTimeToBuyAndSellStocks.ic" NAME="_121BestTimeToBuyAndSellStocks Coverage Results" MODIFIED="1749768621942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
